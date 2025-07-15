@@ -15,6 +15,7 @@ A robust and scalable Spring Boot application for managing media files — uploa
 💾 File Storage
 
    -> Media files saved in local directory: uploads/media/ 
+   
    -> File metadata persisted in relational database (H2, MySQL, etc.)
    
 🛠 Tech Stack
