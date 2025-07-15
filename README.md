@@ -12,19 +12,6 @@ A robust and scalable Spring Boot application for managing media files — uploa
   - Force download files by ID with proper HTTP headers
   - Retrieve a list of all uploaded media files
 
-📦 Project Structure
-
-src/
- └── main/
-     ├── java/com/example/medialibrary
-     │   ├── controller/        # REST API controllers
-     │   ├── entity/            # Entities and enums (MediaFile, MediaType)
-     │   ├── repository/        # JPA Repositories
-     │   ├── service/           # Service interfaces and implementations
-     │   └── MediaLibraryApplication.java
-     └── resources/
-         └── application.properties
-
 💾 File Storage
 
    -> Media files saved in local directory: uploads/media/ 
